@@ -51,7 +51,7 @@
 
 # 6. Conclusão
 <p align='justify'>O objetivo do projeto foi desenvolver um modelo de projeção de preços aos novos produtos cadastrados, garantindo que não ocorram problemas de subprecificação ou sobreprecificação, já que o novo modelo considera a projeção de cada produto individulamente com base em suas características.</p>
-<p align='justify'>Com a implementação do modelo foi possível realizar a projeção individual dos preços aos produtos com uma margem média de erro de aproximadamente 10%, o que pode garantir uma precificação sem perda considerável no volume de vendas, consequentemente gerando lucro à empresa.</p>
+<p align='justify'>Com a implementação do modelo foi possível realizar a projeção individual dos preços aos produtos com uma margem média de erro de aproximadamente 10%, o que pode garantir uma precificação sem perda considerável no volume de vendas, consequentemente maximizando o lucro à empresa.</p>
 <p align='justify'>Com base na projeção apresentada, a Diretoria Financeira poderá prosseguir com a precificação dos novos produtos de maneira eficiente.</p>
 
 # 7. Próximos Passos
